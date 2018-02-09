@@ -1,0 +1,3 @@
+volumes/grafana/grafana.db
+volumes/iota/mainnetdb/
+volumes/prometheus/data/
